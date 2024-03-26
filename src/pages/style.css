@@ -1,0 +1,28 @@
+
+.hero-slider-item {
+  position: relative;
+  background-size: cover;
+  background-position: center center;
+  height: 600px;
+}
+
+.d-table {
+  display: table;
+  width: 100%;
+  height: 100%;
+}
+
+.d-tablecell {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.container {
+  text-align: center;
+}
+
+.slider-text {
+  max-width: 600px;
+  margin: 0 auto;
+  color: #fff; /* Set text color */
+}
